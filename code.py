@@ -1,5 +1,6 @@
 import csv
 import requests
+import logging
 
 # create users from a CSV file
 def create_users(file_path):
@@ -38,6 +39,6 @@ create_users("users.csv")
 #set a basic error logging to a file (error_log.txt)
 
 
-#validate all fields before excute
+#improvement-validate all fields before excute
 
 
