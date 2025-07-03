@@ -33,12 +33,16 @@ def create_users(file_path):
 create_users("users.csv")
 
 
-
-#skip Rows with Missing Email
+#Changes Done
+#skiped Rows with Missing Email
 #added try-except
 #set a basic error logging to a file (error_log.txt)
 
 
-#improvement-validate all fields before excute
+#improvements
+#validate all fields before excute
+#use logging module
+#try excute the scrpit on a CLI
+#decalre meaningful functions and varables
 
 
